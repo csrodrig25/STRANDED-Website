@@ -1,5 +1,8 @@
 title: "STRANDED"
+description: "Find your way back home."
 theme: jekyll-theme-cayman
+
+show_downloads: true
 
 exclude:
    - README.md

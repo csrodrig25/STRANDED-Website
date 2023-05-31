@@ -377,3 +377,15 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+.ccbut {
+  filter: invert(1);
+}
+
+.ccbut:hover {
+  cursor: default;
+}
+
+.ccbut img:hover {
+  cursor: help;
+}

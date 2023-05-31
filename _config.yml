@@ -1,0 +1,5 @@
+title: "STRANDED"
+theme: jekyll-theme-cayman
+
+exclude:
+   - README.md

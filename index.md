@@ -9,4 +9,4 @@ layout: default
 
 ...or scan this QR Code:
 
-![QR Code for STRANDED online game](/qr-code.png)
+![QR Code for STRANDED online game](/qr-code-small.png)

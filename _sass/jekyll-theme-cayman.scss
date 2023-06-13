@@ -140,6 +140,8 @@ a {
   @include small {
     font-size: 1.75rem;
   }
+
+  font-family: "Space Mono", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
 .project-tagline {
